@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Potfolio App</string>
+    <string name="lorem_text">The morning after Christmas, he awakens miles downstream, on a bed of sheepskins, beneath a lean-to of snow-covered boughs. While he feeds wood to the fire, which has diminished to coals, he remembers dreaming a song, hearing chords rippling in his heart, the melody carrying him across the frozen river.</string>
+    <string name="name">Android Developer</string>
+    <string name="lorem_text2">Isaac Fox is an English and creative writing major at Lebanon Valley College. His work has previously appeared in Tiny Molecules, Rejection Letters, and several other publications.</string>
+    <string name="Name">Anurag\nKewat</string>
 </resources>
