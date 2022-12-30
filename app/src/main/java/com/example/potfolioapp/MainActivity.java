@@ -4,7 +4,10 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
+import com.example.potfolioapp.cv.CVFragment;
 import com.example.potfolioapp.home.HomeFragment;
+
+import java.util.Objects;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -12,9 +15,21 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        getSupportActionBar().hide();
-        setHomeFragment();
+        Objects.requireNonNull(getSupportActionBar()).hide();
+       // setHomeFragment();
+
+        setTeamFragment();
+       // setCVFreagment();
     }
+
+    void setTeamFragment(){
+        getSupportFragmentManager().beginTransaction().replace(R.id.container,new TeamFragment()).commit();
+    }
+
+    void setCVFreagment(){
+        getSupportFragmentManager().beginTransaction().replace(R.id.container,new CVFragment()).commit();
+    }
+
 
     void setHomeFragment(){
 

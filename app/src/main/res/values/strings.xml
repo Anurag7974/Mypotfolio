@@ -4,4 +4,10 @@
     <string name="name">Android Developer</string>
     <string name="lorem_text2">Isaac Fox is an English and creative writing major at Lebanon Valley College. His work has previously appeared in Tiny Molecules, Rejection Letters, and several other publications.</string>
     <string name="Name">Anurag\nKewat</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="we_re_a_student_led_501_c_3_nonprofit_connecting_student_writers_in_a_larger_mission_of_collaborative_storytelling_this_is_a_writers_workout_group_where_students_train_their_prose">We’re a student-led 501(c)(3) nonprofit connecting student writers in a larger mission of collaborative storytelling. This is a writers’ workout group where students train their prose.</string>
+    <string name="professional_experience">Professional Experience</string>
+    <string name="our_team">Our Team</string>
+    <string name="anurag_kewat">Anurag Kewat</string>
 </resources>
