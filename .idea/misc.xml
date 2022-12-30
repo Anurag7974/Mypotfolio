@@ -5,12 +5,15 @@
       <map>
         <entry key="..\:/PotfolioApp/app/src/main/res/drawable/circle_cv.xml" value="0.1" />
         <entry key="..\:/PotfolioApp/app/src/main/res/drawable/team_card_bg.xml" value="0.1" />
+        <entry key="..\:/PotfolioApp/app/src/main/res/layout-v23/item_portolio.xml" value="0.25677083333333334" />
         <entry key="..\:/PotfolioApp/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/PotfolioApp/app/src/main/res/layout/circle_cv.xml" value="0.1" />
         <entry key="..\:/PotfolioApp/app/src/main/res/layout/fragment_c_v.xml" value="0.24537037037037038" />
         <entry key="..\:/PotfolioApp/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/PotfolioApp/app/src/main/res/layout/fragment_portfolio.xml" value="0.264" />
         <entry key="..\:/PotfolioApp/app/src/main/res/layout/fragment_team.xml" value="0.264" />
         <entry key="..\:/PotfolioApp/app/src/main/res/layout/item_cv.xml" value="0.264" />
+        <entry key="..\:/PotfolioApp/app/src/main/res/layout/item_portolio.xml" value="0.16" />
         <entry key="..\:/PotfolioApp/app/src/main/res/layout/item_team.xml" value="0.264" />
       </map>
     </option>
